@@ -26,6 +26,9 @@ gem 'omniauth-facebook'
 gem 'omniauth-twitter'  
 gem 'omniauth-google'
 
+**Taint and required checking for Action Pack and enforcement in Active Model *(should be in Rails 4 Core)*:**  
+gem 'strong_parameters'
+
 
 **used for multi-tenancy application work, eg basecamp style, multi users one account.:**  
 gem 'acts_as_tenant'
