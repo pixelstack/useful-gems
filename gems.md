@@ -163,6 +163,9 @@ gem 'annotator'
 **New Relic RPM Agent:**  
 gem 'newrelic_rpm'
 
+**Search:**  
+gem 'ransack'
+
 
 ## Feature
 
