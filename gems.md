@@ -508,6 +508,11 @@ gem 'heroku_san'
 ```
 gem 'capistrano'
 ```
+
+**Really fast deployer and server automation tool(Optional and maybe better than capistrano?)**  
+```
+gem 'mina'
+```
 	
 ```
 gem 'rspec-rails'
