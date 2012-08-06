@@ -455,6 +455,11 @@ gem 'puma'
 gem 'thin'
 ```
 
+**Phusion Passenger (mod_rails):**  
+```
+gem 'passenger'
+```
+
 
 ## Other that I have no place for yet
 
