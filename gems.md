@@ -265,6 +265,11 @@ gem 'annotator'
 gem 'newrelic_rpm'
 ```
 
+**Bullet: A rails plugin/gem to kill N+1 queries and unused eager loading**  
+```
+gem 'bullet', :group => 'development'
+```
+
 **Search:**  
 ```
 gem 'ransack'
