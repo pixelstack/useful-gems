@@ -40,9 +40,14 @@ gem 'omniauth-twitter'
 gem 'omniauth-google'  
 ```
 
-**Taint and required checking for Action Pack and enforcement in Active Model *(should be in Rails 4 Core)*:**  
+**Taint and required checking for Action Pack and enforcement in Active Model *(should be in Rails 4 Core):**  
 ```
 gem 'strong_parameters'
+```
+
+**Ruby gem for interacting with the AlterEgo API:**  
+```
+gem 'alterego'
 ```
 
 
