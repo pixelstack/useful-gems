@@ -376,9 +376,6 @@ gem 'simple_form'
 gem 'zurb-foundation', :group => :assets # great starter for layouts
 ```
 ```
-gem 'ZURB-foundation', :group => :assets # great starter for layouts...SASS
-```
-```
 gem 'twitter-bootstrap-rails', :git => 'http://github.com/seyhunak/twitter-bootstrap-rails.git'
 ```
 
