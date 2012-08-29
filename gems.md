@@ -189,6 +189,11 @@ gem 'resque'
 gem 'delayed_job_active_record'
 ```
 
+**A Rails engine based frontend for Delayed Job. It also has an [iPhone app](http://itunes.apple.com/app/dj-mon/id552732872):**
+```
+gem 'dj_mon'
+```
+
 **runs multiple tasks at once for convenience:**
 ```
 gem 'foreman'
