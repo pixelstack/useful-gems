@@ -135,11 +135,6 @@ gem 'clear_eyes'
 gem 'seedbank'
 ```
 
-**Advanced seed data handling for Rails, combining the best practices of several methods together.:**
-```
-gem 'seed-fu', '~> 2.1.0'
-```
-
 **A Ruby gem for communicating with the Twilio API and generating TwiML (SMS):**
 ```
 gem 'twilio-ruby'
