@@ -135,6 +135,11 @@ gem 'clear_eyes'
 gem 'seedbank'
 ```
 
+**Easily include static pages in your Rails app:**
+```
+gem 'high_voltage'
+```
+
 **A Ruby gem for communicating with the Twilio API and generating TwiML (SMS):**
 ```
 gem 'twilio-ruby'
