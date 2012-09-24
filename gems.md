@@ -419,6 +419,11 @@ gem 'awesome_print'
 gem 'pizzazz'
 ```
 
+**Provides a simple helper to get an HTML select list of countries. The list of countries comes from the ISO 3166 standard. While it is a relatively neutral source of country names, it may still offend some users:**
+```
+gem 'country-select'
+```
+
 
 ## Pagination
 
