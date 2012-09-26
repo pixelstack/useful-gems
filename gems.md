@@ -377,6 +377,12 @@ gem 'haml-rails'
 ```
 gem 'simple_form'
 ```
+
+**Easy dynamic nested fields for Rails and jQuery applications:**
+```
+gem 'awesome_nested_fields'
+```
+
 ```
 gem 'zurb-foundation', :group => :assets # great starter for layouts
 ```
