@@ -140,6 +140,16 @@ gem 'seedbank'
 gem 'high_voltage'
 ```
 
+**An IRB alternative and runtime developer console:**
+```
+gem 'pry'
+```
+
+**Connect to Pry remotely (for use with things like [POW](http://pow.cx)):**
+```
+gem 'pry-remote'
+```
+
 **A Ruby gem for communicating with the Twilio API and generating TwiML (SMS):**
 ```
 gem 'twilio-ruby'
