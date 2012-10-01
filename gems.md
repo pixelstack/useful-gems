@@ -140,6 +140,11 @@ gem 'seedbank'
 gem 'high_voltage'
 ```
 
+**An ActiveModel validator that validates associated models, copying any errors from composed models up to their parent:**
+```
+gem 'also_validates'
+```
+
 **An IRB alternative and runtime developer console:**
 ```
 gem 'pry'
