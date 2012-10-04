@@ -463,6 +463,11 @@ gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 ```
 
+**BreadcrumbsOnRails is a simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project. It provides helpers for creating navigation elements with a flexible interface:**
+```
+gem 'breadcrumbs_on_rails'
+```
+
 
 ## eCommerce
 
