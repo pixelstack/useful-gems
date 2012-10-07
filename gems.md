@@ -373,6 +373,11 @@ gem 'tiny_mce'
 
 ## Visual
 
+**Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets:**
+```
+gem 'turbo-sprockets-rails3'
+```
+
 **admin interface:**
 ```
 gem 'activeadmin'
