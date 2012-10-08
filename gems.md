@@ -94,6 +94,11 @@ gem 'rails3-jquery-autocomplete'
 gem 'rack-pjax'
 ```
 
+**Turbolinks makes following links in your web application faster. Instead of letting the browser recompile the JavaScript and CSS between each page change, it keeps the current page instance alive and replaces only the body and the title in the head. Think CGI vs persistent process:**
+```
+gem 'turbolinks'
+```
+
 **adds your ruby variables in your JS:**
 ```
 gem 'gon'
