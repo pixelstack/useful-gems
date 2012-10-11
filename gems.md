@@ -612,6 +612,11 @@ gem 'nifty-generators'
 gem 'factory_girl_rails'
 ```
 
+**Generate fake data for your tests**
+```
+gem 'faker`
+```
+
 **used for checking your code:**
 ```
 gem 'rails_best_practices'
