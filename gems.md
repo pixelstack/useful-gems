@@ -145,6 +145,11 @@ gem 'seedbank'
 gem 'high_voltage'
 ```
 
+**Extension for Delayed Job to only run workers when needed on Heroku:**
+```
+gem 'workless'
+```
+
 **An ActiveModel validator that validates associated models, copying any errors from composed models up to their parent:**
 ```
 gem 'also_validates'
