@@ -577,6 +577,11 @@ gem 'heroku_san'
 gem 'capistrano'
 ```
 
+**Battle-tested capistrano recipes for ruby, rubygems, apache, passenger, delayed_job, juggernaut, thinking_sphinx, mongodb, whenever, among other popular tools:**
+```
+gem 'cap-recipes'
+```
+
 **Really fast deployer and server automation tool(Optional and maybe better than capistrano?)**
 ```
 gem 'mina'
