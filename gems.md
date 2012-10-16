@@ -315,6 +315,11 @@ gem 'bullet', :group => 'development'
 gem 'ransack'
 ```
 
+**Object-based searching (and more) for simply creating search forms:**
+```
+gem 'meta_search'
+```
+
 
 ## Feature
 
