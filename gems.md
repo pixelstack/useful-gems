@@ -150,6 +150,16 @@ gem 'high_voltage'
 gem 'acts-as-taggable-on'
 ```
 
+**A Rails plugin gem for filtering out profanity:**
+```
+gem 'profanity_filter'
+```
+
+**The ActiveRecord acts_as_commentable plugin:**
+```
+gem 'acts_as_commentable'
+```
+
 **Extension for Delayed Job to only run workers when needed on Heroku:**
 ```
 gem 'workless'
