@@ -189,6 +189,11 @@ gem 'fog'
 gem 'grape'
 ```
 
+**General ruby templating with json, bson, xml, plist and msgpack support:**
+```
+gem 'rabl'
+```
+
 **used for backup:**
 ```
 gem 'backup'
