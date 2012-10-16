@@ -145,6 +145,11 @@ gem 'seedbank'
 gem 'high_voltage'
 ```
 
+**A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts:**
+```
+gem 'acts-as-taggable-on'
+```
+
 **Extension for Delayed Job to only run workers when needed on Heroku:**
 ```
 gem 'workless'
