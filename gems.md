@@ -460,6 +460,11 @@ gem 'sass-twitter-bootstrap'
 gem 'formtastic'
 ```
 
+**ClientSideValidations for Ruby on Rails:**
+```
+gem 'client_side_validations'
+```
+
 **used for pdf generation:**
 ```
 gem 'prawn'
