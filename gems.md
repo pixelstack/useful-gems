@@ -134,6 +134,10 @@ gem 'clear_eyes'
 
 
 ## System
+**Makes http fun again!:**  
+```
+gem 'httparty'
+```
 
 **Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file. I find my seed data tended to fall into two categories. 1. Stuff that the entire application requires. 2. Stuff to populate my development and staging environments.:**
 ```
