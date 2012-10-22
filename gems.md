@@ -139,6 +139,11 @@ gem 'clear_eyes'
 gem 'httparty'
 ```
 
+**Every Rails page has footnotes that gives information about your application and links back to your editor:**  
+```
+gem 'rails-footnotes'
+```
+
 **Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file. I find my seed data tended to fall into two categories. 1. Stuff that the entire application requires. 2. Stuff to populate my development and staging environments.:**
 ```
 gem 'seedbank'
