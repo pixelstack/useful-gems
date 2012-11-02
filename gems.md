@@ -56,6 +56,13 @@ gem 'alterego'
 gem 'acts_as_tenant'
 ```
 
+**Database multi-tenancy for Rack (and Rails) applications:**  
+Apartment provides tools to help you deal with multiple databases in your Rails application. If you need to have certain data sequestered based on account or company, but still allow some data to exist in a common database, Apartment can help.  
+Uses schemas in Postgres, WEWT!  
+```
+gem 'apartment'
+```
+
 **easier oauth functionality:**
 ```
 gem 'open_auth2'
