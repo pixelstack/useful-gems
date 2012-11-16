@@ -141,6 +141,11 @@ gem 'clear_eyes'
 
 
 ## System
+**Engine Yard Local (Local Engine Yard Using VirtualBox)**  
+```
+gem 'engineyard-local'
+```
+
 **Makes http fun again!:**  
 ```
 gem 'httparty'
