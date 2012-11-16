@@ -359,6 +359,11 @@ gem 'meta_search'
 gem 'rollout'
 ```
 
+**A slick way to rollout features in your web app:**
+```
+gem 'rollout_ui'
+```
+
 **degrade features if failing or something like that:**
 ```
 gem 'degrade'
