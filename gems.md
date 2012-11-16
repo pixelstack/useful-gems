@@ -511,6 +511,10 @@ gem 'pizzazz'
 gem 'country-select'
 ```
 
+**Logic-less Ruby templates**  
+```
+gem 'mustache'
+```
 
 ## Pagination
 
