@@ -521,6 +521,11 @@ gem 'country-select'
 gem 'mustache'
 ```
 
+**Rails gem for handling keyboard shortcuts via mousetrap javascript library:**
+```
+gem 'mousetrap-rails'
+```
+
 ## Pagination
 
 **hardcore pagination:**
