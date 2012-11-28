@@ -609,6 +609,11 @@ gem 'squeel'
 
 ## Development
 
+**Code coverage for Ruby 1.9 with a powerful configuration library and automatic merging of coverage across test suites:**  
+```
+gem 'simplecov', :require => false, :group => :test
+```
+
 *group :test*
 ```
 gem 'cucumber-rails'
