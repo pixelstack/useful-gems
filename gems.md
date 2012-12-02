@@ -235,6 +235,11 @@ gem 'rabl'
 gem 'backup'
 ```
 
+**A means of automating Heroku's pgbackups and archiving them to Amazon S3 via the fog gem**  
+```
+gem 'pgbackups-archive'
+```
+
 **render custom json templates:**
 ```
 gem 'jbuilder'
