@@ -444,6 +444,11 @@ gem 'tiny_mce'
 
 ## Visual
 
+**Garlic.js in love with Rails Asset Pipeline(saves forms):**
+```
+gem 'garlicjs-rails'
+```
+
 **Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets:**
 ```
 gem 'turbo-sprockets-rails3'
