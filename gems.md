@@ -141,6 +141,11 @@ gem 'clear_eyes'
 
 
 ## System
+**An attempt to tame Rails' default policy to log everything**  
+```
+gem 'lograge'
+```
+
 **Engine Yard Local (Local Engine Yard Using VirtualBox)**  
 ```
 gem 'engineyard-local'
