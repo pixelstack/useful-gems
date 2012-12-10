@@ -141,6 +141,11 @@ gem 'clear_eyes'
 
 
 ## System
+**Better error page for Rails and other Rack apps (for development only)**  
+```
+gem 'better_errors'
+```
+
 **An attempt to tame Rails' default policy to log everything**  
 ```
 gem 'lograge'
