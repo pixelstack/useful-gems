@@ -141,6 +141,11 @@ gem 'clear_eyes'
 
 
 ## System
+**Library for dealing with money and currency conversion**  
+```
+gem 'money'
+```
+
 **Better error page for Rails and other Rack apps (for development only)**  
 ```
 gem 'better_errors'
