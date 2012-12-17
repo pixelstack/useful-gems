@@ -171,6 +171,11 @@ gem 'httparty'
 gem 'rails-footnotes'
 ```
 
+**Nice profiling of application see [http://railscasts.com/episodes/368-miniprofiler](http://railscasts.com/episodes/368-miniprofiler) for more info:**  
+```
+gem 'rack-mini-profiler'
+```
+
 **Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file. I find my seed data tended to fall into two categories. 1. Stuff that the entire application requires. 2. Stuff to populate my development and staging environments.:**
 ```
 gem 'seedbank'
