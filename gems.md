@@ -78,6 +78,11 @@ gem 'opro'
 gem 'rest-client'
 ```
 
+**HMAC authentication client for Rails and ActiveResource:**  
+```
+gem 'api-auth'
+```
+
 **Very simple Roles library without any authorization enforcement supporting scope on resource object. This library was intended to be used with CanCan and devise but should be generic enough to be used by any other authentication/authorization solutions:**
 ```
 gem 'rolify'
