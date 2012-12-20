@@ -509,6 +509,11 @@ gem 'simple_form'
 gem 'awesome_nested_fields'
 ```
 
+**Synchronises Assets between Rails and S3:**
+```
+gem 'asset_sync', :group => :assets
+```
+
 ```
 gem 'zurb-foundation', :group => :assets # great starter for layouts
 ```
