@@ -73,6 +73,11 @@ gem 'open_auth2'
 gem 'opro'
 ```
 
+**Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions[https://github.com/archiloque/rest-client](https://github.com/archiloque/rest-client):**
+```
+gem 'rest-client'
+```
+
 **Very simple Roles library without any authorization enforcement supporting scope on resource object. This library was intended to be used with CanCan and devise but should be generic enough to be used by any other authentication/authorization solutions:**
 ```
 gem 'rolify'
