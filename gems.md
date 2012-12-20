@@ -27,6 +27,11 @@ gem 'devise_invitable'
 gem 'devise-encryptable'
 ```
 
+**Rails authentication with email & password.**
+```
+gem 'clearance'
+```
+
 **general authentication:**
 ```
 gem 'authlogic'
