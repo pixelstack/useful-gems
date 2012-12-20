@@ -144,6 +144,11 @@ gem 'image_sorcery'
 gem 'carrierwave'
 ```
 
+**Process your uploads in the background by uploading directly to S3:**
+```
+gem 'carrierwave_direct'
+```
+
 **used for image uploads:**
 ```
 gem 'paperclip'
