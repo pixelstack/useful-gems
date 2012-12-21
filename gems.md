@@ -171,6 +171,11 @@ gem 'clear_eyes'
 gem 'money'
 ```
 
+**Whitelist-based Ruby HTML sanitizer**  
+```
+gem 'sanitize'
+```
+
 **Better error page for Rails and other Rack apps (for development only)**  
 ```
 gem 'better_errors'
