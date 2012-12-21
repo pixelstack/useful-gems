@@ -98,6 +98,11 @@ gem 'rolify'
 gem 'bcrypt-ruby', :require => 'bcrypt'
 ```
 
+**Generates attr_accessors that encrypt and decrypt attributes:**
+```
+gem 'attr_encrypted'
+```
+
 
 ## Javascript
 
