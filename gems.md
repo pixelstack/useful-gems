@@ -126,6 +126,11 @@ gem 'rack-pjax'
 gem 'turbolinks'
 ```
 
+**Wiselinks makes following links and submitting some forms in your web application smarter and faster (this is really rad):**
+```
+gem 'wiselinks'
+```
+
 **adds your ruby variables in your JS:**
 ```
 gem 'gon'
