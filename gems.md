@@ -241,6 +241,11 @@ gem 'acts_as_commentable'
 gem 'workless'
 ```
 
+**HireFire automatically "hires" and "fires" (aka "scales") Delayed Job and Resque workers on Heroku[http://hirefireapp.com/](http://hirefireapp.com/):**  
+```
+gem 'hirefire'
+```
+
 **An ActiveModel validator that validates associated models, copying any errors from composed models up to their parent:**
 ```
 gem 'also_validates'
