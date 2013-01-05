@@ -739,6 +739,12 @@ gem 'email_spec'
 gem 'capybara'
 ```
 
+**Test your ActionMailer and Mailer messages with Capybara**  
+
+```
+gem 'capybara-email'
+```
+
 ```
 gem 'guard-rspec'
 ```
