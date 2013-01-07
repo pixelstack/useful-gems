@@ -176,6 +176,11 @@ gem 'clear_eyes'
 gem 'money'
 ```
 
+**Simple Rails app configuration**  
+```
+gem 'figaro'
+```
+
 **Whitelist-based Ruby HTML sanitizer**  
 ```
 gem 'sanitize'
