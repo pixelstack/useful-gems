@@ -751,6 +751,10 @@ gem 'capybara-email'
 ```
 
 ```
+gem 'capybara-screenshot', :group => :test
+```
+
+```
 gem 'guard-rspec'
 ```
 
