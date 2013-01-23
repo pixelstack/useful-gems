@@ -171,6 +171,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Don't use 3rd party services to track your app errors. Use Github!**  
+```
+gem 'party_foul'
+```  
+[view on github](https://github.com/dockyard/party_foul) | [view on RubyGems](https://rubygems.org/gems/party_foul) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/party_foul)
+
 **Library for dealing with money and currency conversion**  
 ```
 gem 'money'
