@@ -7,15 +7,21 @@
 gem 'cancan'
 ```
 
+[view on github](https://github.com/ryanb/cancan) | [view on RubyGems](https://rubygems.org/gems/cancan) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/cancan)
+
 **Authorization Gem for Ruby on Rails with administrative interface. Semantic, Flexible, Lightweight (Competitor to Can-Can):**
 ```
 gem 'the_role'
 ```
 
+[view on github](https://github.com/the-teacher/the_role) | [view on RubyGems](http://rubygems.org/gems/the_role) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/the_role)
+
 **full on authorisation:**
 ```
 gem 'devise'
 ```
+
+[view on github](https://github.com/plataformatec/devise) | [view on RubyGems](http://rubygems.org/gems/devise) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/devise)
 
 **used for invitation based devise stuff, works with devise:**
 ```
@@ -61,9 +67,9 @@ gem 'alterego'
 gem 'acts_as_tenant'
 ```
 
-**Database multi-tenancy for Rack (and Rails) applications:**  
-Apartment provides tools to help you deal with multiple databases in your Rails application. If you need to have certain data sequestered based on account or company, but still allow some data to exist in a common database, Apartment can help.  
-Uses schemas in Postgres, WEWT!  
+**Database multi-tenancy for Rack (and Rails) applications:**
+Apartment provides tools to help you deal with multiple databases in your Rails application. If you need to have certain data sequestered based on account or company, but still allow some data to exist in a common database, Apartment can help.
+Uses schemas in Postgres, WEWT!
 ```
 gem 'apartment'
 ```
@@ -83,7 +89,7 @@ gem 'opro'
 gem 'rest-client'
 ```
 
-**HMAC authentication client for Rails and ActiveResource:**  
+**HMAC authentication client for Rails and ActiveResource:**
 ```
 gem 'api-auth'
 ```
@@ -171,53 +177,53 @@ gem 'clear_eyes'
 
 
 ## System
-**Don't use 3rd party services to track your app errors. Use Github!**  
+**Don't use 3rd party services to track your app errors. Use Github!**
 ```
 gem 'party_foul'
-```  
+```
 [view on github](https://github.com/dockyard/party_foul) | [view on RubyGems](https://rubygems.org/gems/party_foul) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/party_foul)
 
-**Library for dealing with money and currency conversion**  
+**Library for dealing with money and currency conversion**
 ```
 gem 'money'
 ```
 
-**Simple Rails app configuration**  
+**Simple Rails app configuration**
 ```
 gem 'figaro'
 ```
 
-**Whitelist-based Ruby HTML sanitizer**  
+**Whitelist-based Ruby HTML sanitizer**
 ```
 gem 'sanitize'
 ```
 
-**Better error page for Rails and other Rack apps (for development only)**  
+**Better error page for Rails and other Rack apps (for development only)**
 ```
 gem 'better_errors'
 ```
 
-**An attempt to tame Rails' default policy to log everything**  
+**An attempt to tame Rails' default policy to log everything**
 ```
 gem 'lograge'
 ```
 
-**Engine Yard Local (Local Engine Yard Using VirtualBox)**  
+**Engine Yard Local (Local Engine Yard Using VirtualBox)**
 ```
 gem 'engineyard-local'
 ```
 
-**Makes http fun again!:**  
+**Makes http fun again!:**
 ```
 gem 'httparty'
 ```
 
-**Every Rails page has footnotes that gives information about your application and links back to your editor:**  
+**Every Rails page has footnotes that gives information about your application and links back to your editor:**
 ```
 gem 'rails-footnotes'
 ```
 
-**Nice profiling of application see [http://railscasts.com/episodes/368-miniprofiler](http://railscasts.com/episodes/368-miniprofiler) for more info:**  
+**Nice profiling of application see [http://railscasts.com/episodes/368-miniprofiler](http://railscasts.com/episodes/368-miniprofiler) for more info:**
 ```
 gem 'rack-mini-profiler'
 ```
@@ -252,7 +258,7 @@ gem 'acts_as_commentable'
 gem 'workless'
 ```
 
-**HireFire automatically "hires" and "fires" (aka "scales") Delayed Job and Resque workers on Heroku[http://hirefireapp.com/](http://hirefireapp.com/):**  
+**HireFire automatically "hires" and "fires" (aka "scales") Delayed Job and Resque workers on Heroku[http://hirefireapp.com/](http://hirefireapp.com/):**
 ```
 gem 'hirefire'
 ```
@@ -306,7 +312,7 @@ gem 'rabl'
 gem 'backup'
 ```
 
-**A means of automating Heroku's pgbackups and archiving them to Amazon S3 via the fog gem**  
+**A means of automating Heroku's pgbackups and archiving them to Amazon S3 via the fog gem**
 ```
 gem 'pgbackups-archive'
 ```
@@ -602,7 +608,7 @@ gem 'pizzazz'
 gem 'country-select'
 ```
 
-**Logic-less Ruby templates**  
+**Logic-less Ruby templates**
 ```
 gem 'mustache'
 ```
@@ -695,7 +701,7 @@ gem 'squeel'
 
 ## Development
 
-**Code coverage for Ruby 1.9 with a powerful configuration library and automatic merging of coverage across test suites:**  
+**Code coverage for Ruby 1.9 with a powerful configuration library and automatic merging of coverage across test suites:**
 ```
 gem 'simplecov', :require => false, :group => :test
 ```
@@ -750,7 +756,7 @@ gem 'email_spec'
 gem 'capybara'
 ```
 
-**Test your ActionMailer and Mailer messages with Capybara**  
+**Test your ActionMailer and Mailer messages with Capybara**
 
 ```
 gem 'capybara-email'
