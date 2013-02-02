@@ -183,6 +183,12 @@ gem 'party_foul'
 ```
 [view on github](https://github.com/dockyard/party_foul) | [view on RubyGems](https://rubygems.org/gems/party_foul) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/party_foul)
 
+**Inkwell adds social networking features – comments, reblogs, favorites, ability to follow other people and view their timeline**
+```
+gem 'inkwell', :git => 'git://github.com/salkar/inkwell.git'
+```
+[view on github](https://github.com/salkar/inkwell) | [view on RubyGems](https://rubygems.org/gems/inkwell) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/inkwell)
+
 **Library for dealing with money and currency conversion**
 ```
 gem 'money'
