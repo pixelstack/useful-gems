@@ -509,6 +509,12 @@ gem 'mailman'
 
 
 ## WYSIWYG
+**Imperavi wysiwyg editor for Rails 3.1 and 3.2**
+```
+gem 'imperavi-rails'
+```
+[view on github](https://github.com/tanraya/imperavi-rails) | [view on RubyGems](http://rubygems.org/gems/imperavi-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/imperavi-rails)
+
 
 **asset pipeline based ckeditor:**
 ```
