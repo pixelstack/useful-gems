@@ -27,21 +27,25 @@ gem 'devise'
 ```
 gem 'devise_invitable'
 ```
+[view on github](https://github.com/scambra/devise_invitable) | [view on RubyGems](http://rubygems.org/gems/devise_invitable) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/devise_invitable)
 
 **Use alternative (and even your own!) encryptors with Devise.**
 ```
 gem 'devise-encryptable'
 ```
+[view on github](https://github.com/plataformatec/devise-encryptable) | [view on RubyGems](http://rubygems.org/gems/devise-encryptable) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/devise-encryptable)
 
 **Rails authentication with email & password.**
 ```
 gem 'clearance'
 ```
+[view on github](https://github.com/thoughtbot/clearance) | [view on RubyGems](http://rubygems.org/gems/clearance) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/clearance)
 
 **general authentication:**
 ```
 gem 'authlogic'
 ```
+[view on github](https://github.com/binarylogic/authlogic) | [view on RubyGems](http://rubygems.org/gems/authlogic) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/authlogic)
 
 **multiple authentication methods:**
 ```
@@ -55,17 +59,20 @@ gem 'omniauth-google'
 ```
 gem 'strong_parameters'
 ```
+[view on github](https://github.com/rails/strong_parameters) | [view on RubyGems](http://rubygems.org/gems/strong_parameters) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/strong_parameters)
 
 **Ruby gem for interacting with the AlterEgo API:**
 ```
 gem 'alterego'
 ```
+[view on github](https://github.com/tatemae-consultancy/alterego) | [view on RubyGems](http://rubygems.org/gems/alterego) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/alterego)
 
 
 **used for multi-tenancy application work, eg basecamp style, multi users one account.:**
 ```
 gem 'acts_as_tenant'
 ```
+[view on github](https://github.com/ErwinM/acts_as_tenant) | [view on RubyGems](http://rubygems.org/gems/acts_as_tenant) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/acts_as_tenant)
 
 **Database multi-tenancy for Rack (and Rails) applications:**
 Apartment provides tools to help you deal with multiple databases in your Rails application. If you need to have certain data sequestered based on account or company, but still allow some data to exist in a common database, Apartment can help.
@@ -73,31 +80,37 @@ Uses schemas in Postgres, WEWT!
 ```
 gem 'apartment'
 ```
+[view on github](https://github.com/influitive/apartment) | [view on RubyGems](http://rubygems.org/gems/apartment) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/apartment)
 
 **easier oauth functionality:**
 ```
 gem 'open_auth2'
 ```
+[view on github](https://github.com/sent-hil/open_auth2) | [view on RubyGems](http://rubygems.org/gems/open_auth2) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/open_auth2)
 
 **A production ready Rails Engine that turns your app into an Oauth2 Provider:**
 ```
 gem 'opro'
 ```
+[view on github](https://github.com/opro/opro) | [view on RubyGems](http://rubygems.org/gems/opro) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/opro)
 
 **Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions[https://github.com/archiloque/rest-client](https://github.com/archiloque/rest-client):**
 ```
 gem 'rest-client'
 ```
+[view on github](https://github.com/archiloque/rest-client) | [view on RubyGems](http://rubygems.org/gems/rest-client) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rest-client)
 
 **HMAC authentication client for Rails and ActiveResource:**
 ```
 gem 'api-auth'
 ```
+[view on github](https://github.com/mgomes/api_auth) | [view on RubyGems](http://rubygems.org/gems/api-auth) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/api-auth)
 
 **Very simple Roles library without any authorization enforcement supporting scope on resource object. This library was intended to be used with CanCan and devise but should be generic enough to be used by any other authentication/authorization solutions:**
 ```
 gem 'rolify'
 ```
+[view on github](https://github.com/EppO/rolify) | [view on RubyGems](http://rubygems.org/gems/rolify) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rolify)
 
 **encryption:**
 ```
@@ -108,6 +121,7 @@ gem 'bcrypt-ruby', :require => 'bcrypt'
 ```
 gem 'attr_encrypted'
 ```
+[view on github](https://github.com/shuber/attr_encrypted) | [view on RubyGems](http://rubygems.org/gems/attr_encrypted) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/attr_encrypted)
 
 
 ## Javascript
@@ -116,26 +130,31 @@ gem 'attr_encrypted'
 ```
 gem 'chosen-rails'
 ```
+[view on github](https://github.com/tsechingho/chosen-rails) | [view on RubyGems](http://rubygems.org/gems/chosen-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/chosen-rails)
 
 **add jquery autocomplete:**
 ```
 gem 'rails3-jquery-autocomplete'
 ```
+[view on github](https://github.com/crowdint/rails3-jquery-autocomplete) | [view on RubyGems](http://rubygems.org/gems/rails3-jquery-autocomplete) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rails3-jquery-autocomplete)
 
 **ajaxify stuff - also add [jquery-pjax](https://github.com/defunkt/jquery-pjax):**
 ```
 gem 'rack-pjax'
 ```
+[view on github](https://github.com/eval/rack-pjax) | [view on RubyGems](http://rubygems.org/gems/rack-pjax) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rack-pjax)
 
 **Turbolinks makes following links in your web application faster. Instead of letting the browser recompile the JavaScript and CSS between each page change, it keeps the current page instance alive and replaces only the body and the title in the head. Think CGI vs persistent process:**
 ```
 gem 'turbolinks'
 ```
+[view on github](https://github.com/rails/turbolinks) | [view on RubyGems](http://rubygems.org/gems/turbolinks) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/turbolinks)
 
 **Wiselinks makes following links and submitting some forms in your web application smarter and faster (this is really rad):**
 ```
 gem 'wiselinks'
 ```
+[view on github](https://github.com/igor-alexandrov/wiselinks) | [view on RubyGems](http://rubygems.org/gems/wiselinks) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/wiselinks)
 
 **adds your ruby variables in your JS:**
 ```
