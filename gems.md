@@ -483,6 +483,11 @@ gem 'refinerycms'
 
 
 ## Mail
+**A Rails engine that provides an endpoint for Sendgrid and sends the email to a specified class for processing**
+```
+gem 'griddler'
+```
+[view on github](https://github.com/thoughtbot/griddler) | [view on RubyGems](http://rubygems.org/gems/griddler) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/griddler)
 
 **used for viewing emails instead of sending tests:**
 ```
