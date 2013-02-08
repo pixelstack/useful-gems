@@ -177,6 +177,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Security related headers all in one gem**
+```
+gem 'secure-headers'
+```
+[view on github](https://github.com/twitter/secureheaders)
+
 **Don't use 3rd party services to track your app errors. Use Github!**
 ```
 gem 'party_foul'
