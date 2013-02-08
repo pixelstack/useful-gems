@@ -538,6 +538,11 @@ gem 'tiny_mce'
 
 
 ## Visual
+**Rails generator to build a styleguide**
+```
+gem 'styleguide_rails'
+```
+[view on github](https://github.com/begriffs/styleguide_rails) | [view on RubyGems](http://rubygems.org/gems/styleguide_rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/styleguide_rails)
 
 **Garlic.js in love with Rails Asset Pipeline(saves forms):**
 ```
