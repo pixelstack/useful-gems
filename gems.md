@@ -514,6 +514,12 @@ gem 'mail_room'
 ```
 [view on github](https://github.com/tpitale/mail_room) | [view on RubyGems](http://rubygems.org/gems/mail_room) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/mail_room)
 
+**Preview mail in the browser instead of sending**
+```
+gem 'letter_opener', :group => :development
+```
+[view on github](https://github.com/ryanb/letter_opener) | [view on RubyGems](http://rubygems.org/gems/letter_opener) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/letter_opener)
+
 **used for viewing emails instead of sending tests:**
 ```
 gem 'mail_view'
