@@ -508,6 +508,12 @@ gem 'griddler'
 ```
 [view on github](https://github.com/thoughtbot/griddler) | [view on RubyGems](http://rubygems.org/gems/griddler) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/griddler)
 
+**Forward mail from gmail IMAP to a callback URL, simply**
+```
+gem 'mail_room'
+```
+[view on github](https://github.com/tpitale/mail_room) | [view on RubyGems](http://rubygems.org/gems/mail_room) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/mail_room)
+
 **used for viewing emails instead of sending tests:**
 ```
 gem 'mail_view'
