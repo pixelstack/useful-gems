@@ -138,6 +138,12 @@ gem 'rails3-jquery-autocomplete'
 ```
 [view on github](https://github.com/crowdint/rails3-jquery-autocomplete) | [view on RubyGems](http://rubygems.org/gems/rails3-jquery-autocomplete) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rails3-jquery-autocomplete)
 
+**Rails gem for handling keyboard shortcuts via mousetrap javascript library:**
+```
+gem 'mousetrap-rails'
+```
+[view on github](https://github.com/kugaevsky/mousetrap-rails) | [view on RubyGems](http://rubygems.org/gems/mousetrap-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/mousetrap-rails)
+
 **ajaxify stuff - also add [jquery-pjax](https://github.com/defunkt/jquery-pjax):**
 ```
 gem 'rack-pjax'
