@@ -208,6 +208,12 @@ gem 'secure-headers'
 ```
 [view on github](https://github.com/twitter/secureheaders)
 
+**Send and retrieve your ruby i18n localizations to the Locale translation service**
+```
+gem 'localeapp'
+```
+[view on github](https://github.com/Locale/localeapp) | [view on RubyGems](http://rubygems.org/gems/localeapp) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/localeapp)
+
 **Don't use 3rd party services to track your app errors. Use Github!**
 ```
 gem 'party_foul'
