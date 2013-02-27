@@ -512,13 +512,18 @@ gem 'monologue'
 gem 'refinerycms'
 ```
 
+**Edit copy in your live web app (requires [copycopter-server](https://github.com/copycopter/copycopter-server):**  
+```
+gem 'copycopter_client'
+```  
+[view on github](https://github.com/honeybadger-io/incoming) | [view on RubyGems](http://rubygems.org/gems/copycopter_client) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/copycopter_client)
 
 ## Mail
 **Incoming! helps you receive email in your Rack apps.**
 ```
 gem 'incoming'
 ```
-[view on github](https://github.com/honeybadger-io/incoming) | [view on RubyGems](http://rubygems.org/gems/incoming) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/incoming)
+[view on github](https://github.com/cmeiklejohn/copycopter_client) | [view on RubyGems](http://rubygems.org/gems/incoming) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/incoming)
 
 **A Rails engine that provides an endpoint for Sendgrid and sends the email to a specified class for processing**
 ```
