@@ -612,6 +612,12 @@ gem 'styleguide_rails'
 ```
 [view on github](https://github.com/begriffs/styleguide_rails) | [view on RubyGems](http://rubygems.org/gems/styleguide_rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/styleguide_rails)
 
+**Entity-style text parsing extracted from Cheddar**
+```
+gem 'quesadilla'
+```
+[view on github](https://github.com/soffes/quesadilla) | [view on RubyGems](http://rubygems.org/gems/quesadilla) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/quesadilla)
+
 **Garlic.js in love with Rails Asset Pipeline(saves forms):**
 ```
 gem 'garlicjs-rails'
