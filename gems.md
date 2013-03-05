@@ -280,6 +280,7 @@ gem 'seedbank'
 ```
 gem 'high_voltage'
 ```
+[view on github](https://github.com/thoughtbot/high_voltage) | [view on RubyGems](http://rubygems.org/gems/high_voltage) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/high_voltage)
 
 **A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts:**
 ```
@@ -389,6 +390,19 @@ gem 'dj_mon'
 ```
 gem 'foreman'
 ```
+[view on github](https://github.com/ddollar/foreman) | [view on RubyGems](http://rubygems.org/gems/foreman) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/foreman)
+
+**Guard is a command line tool to easily handle events on file system modifications:**
+```
+gem 'guard'
+```
+[view on github](https://github.com/guard/guard) | [view on RubyGems](http://rubygems.org/gems/guard) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/guard)
+
+**Do some browser detection with Ruby. Includes ActionController integration:**
+```
+gem 'browser'
+```
+[view on github](https://github.com/fnando/browser) | [view on RubyGems](http://rubygems.org/gems/browser) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/browser)
 
 **used for scheduling things to run, like cron:**
 ```
