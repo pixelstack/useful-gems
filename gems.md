@@ -766,6 +766,12 @@ gem 'spree_cmd'
 gem 'activemerchant', :require => 'active_merchant'
 ```
 
+**Stripe webhook integration for Rails applications.:**
+```
+gem 'stripe_event'
+```
+[view on github](https://github.com/integrallis/stripe_event) | [view on RubyGems](http://rubygems.org/gems/stripe_event) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/stripe_event)
+
 **Recurring Billing: A Chargify API wrapper for Ruby using ActiveResource.:**
 ```
 gem 'chargify_api_ares'
