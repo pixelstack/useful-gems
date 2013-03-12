@@ -761,6 +761,12 @@ gem 'spree'
 gem 'spree_cmd'
 ```
 
+**stripe payment method for spree commerce:**
+```
+gem 'spree_stripe'
+```
+[view on github](https://github.com/adiastyle/spree-stripe)
+
 **used for billing etc:**
 ```
 gem 'activemerchant', :require => 'active_merchant'
@@ -771,6 +777,12 @@ gem 'activemerchant', :require => 'active_merchant'
 gem 'stripe_event'
 ```
 [view on github](https://github.com/integrallis/stripe_event) | [view on RubyGems](http://rubygems.org/gems/stripe_event) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/stripe_event)
+
+**Stripe Ruby bindings:**
+```
+gem 'stripe'
+```
+[view on github](https://github.com/stripe/stripe-ruby) | [view on RubyGems](http://rubygems.org/gems/stripe) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/stripe)
 
 **Recurring Billing: A Chargify API wrapper for Ruby using ActiveResource.:**
 ```
