@@ -430,6 +430,12 @@ gem 'stamp'
 gem 'paper_trail'
 ```
 
+**Track model actions:**
+```
+gem 'hound'
+```
+[view on github](https://github.com/injekt/hound) | [view on RubyGems](http://rubygems.org/gems/hound) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/hound)
+
 **used for maintenance mode of sites:**
 ```
 gem 'turnout'
