@@ -659,6 +659,8 @@ gem 'simple_form'
 gem 'awesome_nested_fields'
 ```
 
+[view on github](https://github.com/lailsonbm/awesome_nested_fields) | [view on RubyGems](http://rubygems.org/gems/awesome_nested_fields) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/awesome_nested_fields)
+
 **Synchronises Assets between Rails and S3:**
 ```
 gem 'asset_sync', :group => :assets
