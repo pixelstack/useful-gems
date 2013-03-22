@@ -834,6 +834,27 @@ gem 'squeel'
 gem 'simplecov', :require => false, :group => :test
 ```
 
+**Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.:**  
+```
+gem 'flog'
+```
+
+[view on github](https://github.com/seattlerb/flog) | [view on RubyGems](http://rubygems.org/gems/flog) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/flog)
+
+**Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.:**  
+```
+gem 'flay'
+```
+
+[view on github](https://github.com/seattlerb/flay) | [view on RubyGems](http://rubygems.org/gems/flay) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/flay)
+
+**Collection of testing matchers extracted from Shoulda.:**  
+```
+gem 'shoulda-matchers'
+```
+
+[view on github](https://github.com/thoughtbot/shoulda-matchers) | [view on RubyGems](http://rubygems.org/gems/shoulda-matchers) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/shoulda-matchers)
+
 *group :test*
 ```
 gem 'cucumber-rails'
