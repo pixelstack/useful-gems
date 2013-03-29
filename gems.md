@@ -588,11 +588,11 @@ gem 'mailman'
 
 
 ## WYSIWYG
-**Imperavi wysiwyg editor for Rails 3.1 and 3.2**
+**The redactor-rails gem integrates the Redactor editor with the Rails 3.2 asset pipeline.**
 ```
-gem 'imperavi-rails'
+gem 'redactor-rails'
 ```
-[view on github](https://github.com/tanraya/imperavi-rails) | [view on RubyGems](http://rubygems.org/gems/imperavi-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/imperavi-rails)
+[view on github](https://github.com/SammyLin/redactor-rails) | [view on RubyGems](http://rubygems.org/gems/redactor-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/redactor-rails)
 
 
 **asset pipeline based ckeditor:**
