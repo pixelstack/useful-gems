@@ -202,6 +202,12 @@ gem 'clear_eyes'
 
 
 ## System
+**An extensible open-source mobile backend framework**
+```
+gem 'helios'
+```
+[view on github](https://github.com/helios-framework/helios) | [view on RubyGems](http://rubygems.org/gems/helios) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/helios)
+
 **Security related headers all in one gem**
 ```
 gem 'secure-headers'
