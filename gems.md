@@ -61,6 +61,12 @@ gem 'strong_parameters'
 ```
 [view on github](https://github.com/rails/strong_parameters) | [view on RubyGems](http://rubygems.org/gems/strong_parameters) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/strong_parameters)
 
+**Signed forms for your Ruby On Rails app:**
+```
+gem 'signed_form'
+```
+[view on github](https://github.com/erichmenge/signed_form) | [view on RubyGems](http://rubygems.org/gems/signed_form) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/signed_form)
+
 **Ruby gem for interacting with the AlterEgo API:**
 ```
 gem 'alterego'
