@@ -214,6 +214,12 @@ gem 'helios'
 ```
 [view on github](https://github.com/helios-framework/helios) | [view on RubyGems](http://rubygems.org/gems/helios) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/helios)
 
+**Easy activity tracking for models - similar to Github's Public Activity**
+```
+gem 'public_activity'
+```
+[view on github](https://github.com/pokonski/public_activity) | [view on RubyGems](http://rubygems.org/gems/public_activity) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/public_activity)
+
 **Security related headers all in one gem**
 ```
 gem 'secure-headers'
