@@ -214,6 +214,12 @@ gem 'helios'
 ```
 [view on github](https://github.com/helios-framework/helios) | [view on RubyGems](http://rubygems.org/gems/helios) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/helios)
 
+**A development tool that reveals your UI's bones**
+```
+gem 'xray-rails'
+```
+[view on github](https://github.com/brentd/xray-rails) | [view on RubyGems](http://rubygems.org/gems/xray-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/xray-rails)
+
 **Easy activity tracking for models - similar to Github's Public Activity**
 ```
 gem 'public_activity'
