@@ -208,6 +208,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Generate Entity-Relationship Diagrams for Rails applications**
+```
+gem 'rails-erd'
+```
+[view on github](https://github.com/voormedia/rails-erd) | [view on RubyGems](https://rubygems.org/gems/rails-erd) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rails-erd)
+
 **An extensible open-source mobile backend framework**
 ```
 gem 'helios'
