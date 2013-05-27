@@ -978,6 +978,11 @@ gem 'factory_girl_rails'
 gem 'faker`
 ```
 
+**Used for rails Panel**
+```
+gem 'meta_request'
+```
+
 **used for checking your code:**
 ```
 gem 'rails_best_practices'
