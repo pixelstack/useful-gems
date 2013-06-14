@@ -406,6 +406,12 @@ gem 'exception_notification'
 gem 'resque'
 ```
 
+**Love Resque? Hate Boilerplate? Use resque_def!:**
+```
+gem 'resque_def'
+```
+[view on github](https://github.com/schneems/resque_def) | [view on RubyGems](http://rubygems.org/gems/resque_def) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/resque_def)
+
 **[delayed job](https://github.com/collectiveidea/delayed_job):**
 ```
 gem 'delayed_job_active_record'
