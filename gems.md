@@ -412,6 +412,13 @@ gem 'resque_def'
 ```
 [view on github](https://github.com/schneems/resque_def) | [view on RubyGems](http://rubygems.org/gems/resque_def) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/resque_def)
 
+**Sucker Punch is a Ruby asynchronous processing using Celluloid, heavily influenced by Sidekiq and girl_friday:**
+```
+gem 'sucker_punch'
+```
+[view on github](https://github.com/brandonhilkert/sucker_punch) | [view on RubyGems](http://rubygems.org/gems/sucker_punch) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/sucker_punch)
+
+
 **[delayed job](https://github.com/collectiveidea/delayed_job):**
 ```
 gem 'delayed_job_active_record'
