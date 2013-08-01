@@ -635,6 +635,12 @@ gem 'roadie'
 gem 'mailman'
 ```
 
+**Write your ActionMailer email templates in Markdown, send in html and plain text**
+```
+gem 'maildown'
+```
+[view on github](https://github.com/schneems/maildown) | [view on RubyGems](http://rubygems.org/gems/maildown) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/maildown)
+
 
 ## WYSIWYG
 **The redactor-rails gem integrates the Redactor editor with the Rails 3.2 asset pipeline.**
