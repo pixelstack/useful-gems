@@ -904,6 +904,13 @@ gem 'shoulda-matchers'
 
 [view on github](https://github.com/thoughtbot/shoulda-matchers) | [view on RubyGems](http://rubygems.org/gems/shoulda-matchers) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/shoulda-matchers)
 
+**A tool for detecting missing unique indexes in Rails projects.:**
+```
+gem 'consistency_fail'
+```
+
+[view on github](https://github.com/trptcolin/consistency_fail) | [view on RubyGems](http://rubygems.org/gems/consistency_fail) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/consistency_fail)
+
 *group :test*
 ```
 gem 'cucumber-rails'
