@@ -429,6 +429,12 @@ gem 'delayed_job_active_record'
 gem 'dj_mon'
 ```
 
+**A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it dead simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.:**
+```
+gem 'timecop'
+```
+[view on github](https://github.com/travisjeffery/timecop) | [view on RubyGems](http://rubygems.org/gems/timecop) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/timecop)
+
 **runs multiple tasks at once for convenience:**
 ```
 gem 'foreman'
