@@ -272,6 +272,12 @@ gem 'money'
 gem 'figaro'
 ```
 
+**Loads environment variables from .env.**  
+```
+gem 'dotenv-rails', :groups => [:development, :test]
+```  
+[view on github](https://github.com/bkeepers/dotenv) | [view on RubyGems](https://rubygems.org/gems/dotenv) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/dotenv)
+
 **Whitelist-based Ruby HTML sanitizer**
 ```
 gem 'sanitize'
