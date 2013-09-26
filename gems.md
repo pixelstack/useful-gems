@@ -898,8 +898,17 @@ gem 'squeel'
 
 **Code coverage for Ruby 1.9 with a powerful configuration library and automatic merging of coverage across test suites:**
 ```
-gem 'simplecov', :require => false, :group => :test
+gem 
+
+'simplecov', :require => false, :group => :test
 ```
+
+**Static analysis tool for checking Ruby code for Sandi Metz' rules.:**
+```
+gem 'sandi_meter'
+```
+
+[view on github](https://github.com/makaroni4/sandi_meter) | [view on RubyGems](http://rubygems.org/gems/sandi_meter) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/sandi_meter)
 
 **Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.:**
 ```
