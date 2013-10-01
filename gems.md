@@ -512,6 +512,12 @@ gem 'redis'
 gem 'friendly_id'
 ```
 
+**Simple slug functionality for your ActiveRecord objects:**  
+```
+gem 'slugworth'
+```  
+[view on github](https://github.com/mattpolito/slugworth) | [view on RubyGems](http://rubygems.org/gems/slugworth) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/gems/slugworth)
+
 **used for better design patterns see [Railscasts Draper](http://railscasts.com/episodes/286-draper) :**
 ```
 gem 'draper'
