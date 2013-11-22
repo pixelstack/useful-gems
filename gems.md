@@ -459,6 +459,18 @@ gem 'guard'
 ```
 [view on github](https://github.com/guard/guard) | [view on RubyGems](http://rubygems.org/gems/guard) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/guard)
 
+**Guard::LiveReload automatically reload your browser when 'view' files are modified.:**
+```
+gem 'guard-livereload'
+```
+[view on github](https://github.com/guard/guard-livereload) | [view on RubyGems](http://rubygems.org/gems/guard-livereload) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/guard-livereload)
+
+**Guard gem for generating ctags for project files and gems from project's bundle.:**
+```
+gem 'guard-ctags-bundler'
+```
+[view on github](https://github.com/ivalkeen/guard-ctags-bundler) | [view on RubyGems](http://rubygems.org/gems/guard-ctags-bundler) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/guard-ctags-bundler)
+
 **Do some browser detection with Ruby. Includes ActionController integration:**
 ```
 gem 'browser'
