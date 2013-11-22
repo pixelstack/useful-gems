@@ -754,34 +754,12 @@ gem 'asset_sync', :group => :assets
 ```
 gem 'zurb-foundation', :group => :assets # great starter for layouts
 ```
-```
-gem 'twitter-bootstrap-rails', :git => 'http://github.com/seyhunak/twitter-bootstrap-rails.git'
-```
 
 **yet another sass based twitter bootstrap:**
 ```
 gem 'bootstrap-sass'
 ```
 
-**[sass-twitter-bootstrap](https://github.com/jlong/sass-twitter-bootstrap):**
-```
-gem 'sass-twitter-bootstrap'
-```
-
-**cool semantic forms:**
-```
-gem 'formtastic'
-```
-
-**ClientSideValidations for Ruby on Rails:**
-```
-gem 'client_side_validations'
-```
-
-**used for pdf generation:**
-```
-gem 'prawn'
-```
 
 **used for pdf generation:**
 ```
@@ -818,21 +796,6 @@ gem 'mousetrap-rails'
 **hardcore pagination:**
 ```
 gem 'kaminari'
-```
-
-**general pagination:**
-```
-gem 'will_paginate'
-```
-
-**bootstrap general pagination:**
-```
-gem 'bootstrap-will_paginate'
-```
-
-**BreadcrumbsOnRails is a simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project. It provides helpers for creating navigation elements with a flexible interface:**
-```
-gem 'breadcrumbs_on_rails'
 ```
 
 
