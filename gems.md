@@ -61,11 +61,6 @@ gem 'strong_parameters'
 ```
 [view on github](https://github.com/rails/strong_parameters) | [view on RubyGems](http://rubygems.org/gems/strong_parameters) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/strong_parameters)
 
-**Signed forms for your Ruby On Rails app:**
-```
-gem 'signed_form'
-```
-[view on github](https://github.com/erichmenge/signed_form) | [view on RubyGems](http://rubygems.org/gems/signed_form) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/signed_form)
 
 **Ruby gem for interacting with the AlterEgo API:**
 ```
@@ -738,6 +733,12 @@ gem 'haml-rails'
 ```
 gem 'simple_form'
 ```
+
+**Rails jQuery file uploads via standard Rails "remote: true" forms:**
+```
+gem 'remotipart'
+```
+[view on github](https://github.com/lailsonbm/remotipart) | [view on RubyGems](http://rubygems.org/gems/remotipart) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/remotipart)
 
 **Easy dynamic nested fields for Rails and jQuery applications:**
 ```
