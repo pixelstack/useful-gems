@@ -2,20 +2,6 @@
 
 ## Authentication
 
-**authorization and ACL:**
-```
-gem 'cancan'
-```
-
-[view on github](https://github.com/ryanb/cancan) | [view on RubyGems](https://rubygems.org/gems/cancan) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/cancan)
-
-**Authorization Gem for Ruby on Rails with administrative interface. Semantic, Flexible, Lightweight (Competitor to Can-Can):**
-```
-gem 'the_role'
-```
-
-[view on github](https://github.com/the-teacher/the_role) | [view on RubyGems](http://rubygems.org/gems/the_role) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/the_role)
-
 **full on authorisation:**
 ```
 gem 'devise'
@@ -55,7 +41,7 @@ gem 'omniauth-twitter'
 gem 'omniauth-google'
 ```
 
-**Taint and required checking for Action Pack and enforcement in Active Model *(should be in Rails 4 Core):**
+**Taint and required checking for Action Pack and enforcement in Active Model (should be in Rails 4 Core):**
 ```
 gem 'strong_parameters'
 ```
@@ -739,6 +725,12 @@ gem 'simple_form'
 gem 'remotipart'
 ```
 [view on github](https://github.com/lailsonbm/remotipart) | [view on RubyGems](http://rubygems.org/gems/remotipart) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/remotipart)
+
+**Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.:**
+```
+gem 'mail_form'
+```
+[view on github](https://github.com/lailsonbm/mail_form) | [view on RubyGems](http://rubygems.org/gems/mail_form) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/mail_form)
 
 **Easy dynamic nested fields for Rails and jQuery applications:**
 ```
