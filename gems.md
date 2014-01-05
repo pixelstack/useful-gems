@@ -189,6 +189,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Rack middleware for blocking & throttling**
+```
+gem 'rack-attack'
+```
+[view on github](https://github.com/kickstarter/rack-attack) | [view on RubyGems](https://rubygems.org/gems/rack-attack) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rack-attack)
+
 **Patch-level verification for Bundler**
 ```
 gem 'phil'
