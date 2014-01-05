@@ -191,6 +191,12 @@ gem 'clear_eyes'
 ## System
 **Patch-level verification for Bundler**
 ```
+gem 'phil'
+```
+[view on github](https://github.com/camerond/phil) | [view on RubyGems](https://rubygems.org/gems/phil) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/phil)
+
+**Content generation module that wraps around Faker.**
+```
 gem 'bundler-audit'
 ```
 [view on github](https://github.com/rubysec/bundler-audit) | [view on RubyGems](https://rubygems.org/gems/bundler-audit) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/bundler-audit)
