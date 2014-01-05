@@ -189,6 +189,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Patch-level verification for Bundler**
+```
+gem 'bundler-audit'
+```
+[view on github](https://github.com/rubysec/bundler-audit) | [view on RubyGems](https://rubygems.org/gems/bundler-audit) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/bundler-audit)
+
 **Generate Entity-Relationship Diagrams for Rails applications**
 ```
 gem 'rails-erd'
