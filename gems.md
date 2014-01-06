@@ -189,6 +189,12 @@ gem 'clear_eyes'
 
 
 ## System
+**Quickly check your database info while working with Rails in development**
+```
+gem 'rails_db_info'
+```
+[view on github](https://github.com/vlado/rails_db_info) | [view on RubyGems](https://rubygems.org/gems/rails_db_info) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rails_db_info)
+
 **Rack middleware for blocking & throttling**
 ```
 gem 'rack-attack'
