@@ -851,6 +851,12 @@ gem 'stripe_event'
 ```
 [view on github](https://github.com/integrallis/stripe_event) | [view on RubyGems](http://rubygems.org/gems/stripe_event) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/stripe_event)
 
+**A mocking library for testing stripe ruby:**
+```
+gem 'stripe-ruby-mock'
+```
+[view on github](https://github.com/rebelidealist/stripe-ruby-mock) | [view on RubyGems](http://rubygems.org/gems/stripe-ruby-mock) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/stripe-ruby-mock)
+
 **Stripe Ruby bindings:**
 ```
 gem 'stripe'
