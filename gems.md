@@ -766,7 +766,6 @@ gem 'mail_form'
 ```
 gem 'awesome_nested_fields'
 ```
-
 [view on github](https://github.com/lailsonbm/awesome_nested_fields) | [view on RubyGems](http://rubygems.org/gems/awesome_nested_fields) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/awesome_nested_fields)
 
 **Synchronises Assets between Rails and S3:**
@@ -782,6 +781,14 @@ gem 'zurb-foundation', :group => :assets # great starter for layouts
 ```
 gem 'bootstrap-sass'
 ```
+
+**Autoprefixer for Ruby and Ruby on Rails 
+[https://twitter.com/autoprefixer](https://twitter.com/autoprefixer):**  
+```
+gem 'autoprefixer-rails'
+```
+
+[view on github](https://github.com/ai/autoprefixer-rails) | [view on RubyGems](http://rubygems.org/gems/autoprefixer-rails) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/autoprefixer-rails)
 
 
 **used for pdf generation:**
