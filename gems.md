@@ -105,6 +105,12 @@ gem 'cancancan'
 ```
 [view on github](https://github.com/CanCanCommunity/cancancan) | [view on RubyGems](http://rubygems.org/gems/cancancan) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/cancancan)
 
+**Minimal authorization through OO design and pure Ruby classes:**
+```
+gem 'pundit'
+```
+[view on github](https://github.com/elabs/pundit) | [view on RubyGems](http://rubygems.org/gems/pundit) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/pundit)
+
 **encryption:**
 ```
 gem 'bcrypt-ruby', :require => 'bcrypt'
