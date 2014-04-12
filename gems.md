@@ -99,6 +99,12 @@ gem 'rolify'
 ```
 [view on github](https://github.com/EppO/rolify) | [view on RubyGems](http://rubygems.org/gems/rolify) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rolify)
 
+**Continuation of CanCan, the authorization Gem for Ruby on Rails.:**
+```
+gem 'cancancan'
+```
+[view on github](https://github.com/CanCanCommunity/cancancan) | [view on RubyGems](http://rubygems.org/gems/cancancan) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/cancancan)
+
 **encryption:**
 ```
 gem 'bcrypt-ruby', :require => 'bcrypt'
