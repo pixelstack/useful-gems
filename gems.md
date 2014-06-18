@@ -207,6 +207,19 @@ gem 'rails_db_info'
 ```
 [view on github](https://github.com/vlado/rails_db_info) | [view on RubyGems](https://rubygems.org/gems/rails_db_info) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/rails_db_info)
 
+**Manage translations in ruby applications with the awesome power of static analysis**
+```
+gem 'i18n-tasks'
+```
+[view on github](https://github.com/glebm/i18n-tasks) | [view on RubyGems](https://rubygems.org/gems/i18n-tasks) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/i18n-tasks)
+
+
+**Pry-based enhancements for the default Rails 3 and 4 consoles**
+```
+gem 'jazz_hands'
+```
+[view on github](https://github.com/nixme/jazz_hands) | [view on RubyGems](https://rubygems.org/gems/jazz_hands) | [view on The Ruby Toolbox](https://www.ruby-toolbox.com/projects/jazz_hands)
+
 **Rack middleware for blocking & throttling**
 ```
 gem 'rack-attack'
